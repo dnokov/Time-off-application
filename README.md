@@ -1,6 +1,5 @@
 # <a href="https://pics.me.me/me-and-the-boys-when-the-defect-isnt-reproducible-it-57360463.png"><span style="color:#8150C7">Java RuntimeErrors</span></a>
 
-# Final group project
 
 ### Time off request management application
 
@@ -108,4 +107,3 @@ For reference, after application start, please check:
    container by navigating to the project folder and running:
    > docker-compose stop && docker-compose rm -f
 
-#### Developed by <a href="https://pics.me.me/me-and-the-boys-when-the-defect-isnt-reproducible-it-57360463.png"><span style="color:#8150C7">Java RuntimeErrors</span></a>.
