@@ -1,7 +1,6 @@
-# <a href="https://pics.me.me/me-and-the-boys-when-the-defect-isnt-reproducible-it-57360463.png"><span style="color:#8150C7">Java RuntimeErrors</span></a>
 
 
-### Time off request management application
+# Time off request management application
 
 Rest API for Time off request Management Application.
 
