@@ -1,4 +1,5 @@
 version: "3"
+# There is an error somewhere, double check it later, possibly in the port mapping
 services:
   timeoff-mysqldb:
     image: mysql:5.7
